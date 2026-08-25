@@ -194,7 +194,7 @@ const translations = {
 
     // Hero
     hero_title: "تراث مدينة صفاقس",
-    hero_subtitle: "منصة نظم معلومات جغرافية احترافية لمراقبة المباني التاريخية داخل مدينة صفاقس العتيقة.",
+    hero_subtitle: "منصة نظام معلومات جغرافية احترافية لمراقبة المباني التاريخية داخل مدينة صفاقس العتيقة.",
     explore_map: "استكشاف الخريطة",
     dashboard: "لوحة التحكم",
 
@@ -247,7 +247,7 @@ const translations = {
     contact_software: "بحاجة إلى برمجيات مخصصة؟",
 
     // Footer
-    footer_gis: "منصات نظم معلومات جغرافية احترافية",
+    footer_gis: "منصات نظام معلومات جغرافية احترافية",
     footer_webdev: "تطوير المواقع",
     footer_software: "هندسة البرمجيات",
     footer_security_title: "أمن البيانات",
@@ -270,7 +270,7 @@ const translations = {
     atrisk_field_intervention: "التدخل المقترح",
     atrisk_field_photos: "صور العقار",
     atrisk_no_photos: "لا توجد صور متوفرة لهذا العقار حالياً.",
-    atrisk_nav: "كشف المتداعية للسقوط"
+    atrisk_nav: "كشف المباني المتداعية للسقوط"
   }
 
 };
